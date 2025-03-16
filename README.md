@@ -26,8 +26,11 @@
 
 ---
 
-### :woman_technologist: About Me :
-:seedling: I’m currently studying at UTH.
+### 🚀 About Me :
+ 
+* :seedling: I’m currently studying at UTH.
+* 💻 Back-end Developer.
+* 💡 Always learning and exploring new technologies.
 
 ---
 
